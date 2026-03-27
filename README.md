@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Nzo-Cloud/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Nzo-Cloud/Leetcode/tree/master/0066-plus-one) |
+| [0976-largest-perimeter-triangle](https://github.com/Nzo-Cloud/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1041-robot-bounded-in-circle](https://github.com/Nzo-Cloud/Leetcode/tree/master/1041-robot-bounded-in-circle) |
 ## String
 |  |
@@ -19,8 +20,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Nzo-Cloud/Leetcode/tree/master/0066-plus-one) |
+| [0976-largest-perimeter-triangle](https://github.com/Nzo-Cloud/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Nzo-Cloud/Leetcode/tree/master/0050-powx-n) |
+## Greedy
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Nzo-Cloud/Leetcode/tree/master/0976-largest-perimeter-triangle) |
+## Sorting
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Nzo-Cloud/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
