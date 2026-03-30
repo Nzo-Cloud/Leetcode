@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Nzo-Cloud/Leetcode/tree/master/0066-plus-one) |
+| [0283-move-zeroes](https://github.com/Nzo-Cloud/Leetcode/tree/master/0283-move-zeroes) |
 | [0976-largest-perimeter-triangle](https://github.com/Nzo-Cloud/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 ## Recursion
 |  |
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Nzo-Cloud/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Nzo-Cloud/Leetcode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
