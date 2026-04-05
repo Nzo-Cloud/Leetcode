@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Nzo-Cloud/Leetcode/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/Nzo-Cloud/Leetcode/tree/master/0283-move-zeroes) |
 | [0976-largest-perimeter-triangle](https://github.com/Nzo-Cloud/Leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1590-make-sum-divisible-by-p](https://github.com/Nzo-Cloud/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 ## Recursion
 |  |
 | ------- |
@@ -59,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Nzo-Cloud/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Hash Table
+|  |
+| ------- |
+| [1590-make-sum-divisible-by-p](https://github.com/Nzo-Cloud/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
+## Prefix Sum
+|  |
+| ------- |
+| [1590-make-sum-divisible-by-p](https://github.com/Nzo-Cloud/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 <!---LeetCode Topics End-->
