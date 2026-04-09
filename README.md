@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0824-goat-latin](https://github.com/Nzo-Cloud/Leetcode/tree/master/0824-goat-latin) |
 | [1041-robot-bounded-in-circle](https://github.com/Nzo-Cloud/Leetcode/tree/master/1041-robot-bounded-in-circle) |
 ## Simulation
 |  |
