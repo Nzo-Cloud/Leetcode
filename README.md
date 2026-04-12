@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Nzo-Cloud/Leetcode/tree/master/0283-move-zeroes) |
 | [0976-largest-perimeter-triangle](https://github.com/Nzo-Cloud/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1590-make-sum-divisible-by-p](https://github.com/Nzo-Cloud/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
+| [2012-sum-of-beauty-in-the-array](https://github.com/Nzo-Cloud/Leetcode/tree/master/2012-sum-of-beauty-in-the-array) |
 ## Recursion
 |  |
 | ------- |
