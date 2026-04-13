@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1041-robot-bounded-in-circle](https://github.com/Nzo-Cloud/Leetcode/tree/master/1041-robot-bounded-in-circle) |
+| [2043-simple-bank-system](https://github.com/Nzo-Cloud/Leetcode/tree/master/2043-simple-bank-system) |
 ## Array
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/Nzo-Cloud/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1590-make-sum-divisible-by-p](https://github.com/Nzo-Cloud/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [2012-sum-of-beauty-in-the-array](https://github.com/Nzo-Cloud/Leetcode/tree/master/2012-sum-of-beauty-in-the-array) |
+| [2043-simple-bank-system](https://github.com/Nzo-Cloud/Leetcode/tree/master/2043-simple-bank-system) |
 ## Recursion
 |  |
 | ------- |
@@ -66,8 +68,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1590-make-sum-divisible-by-p](https://github.com/Nzo-Cloud/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
+| [2043-simple-bank-system](https://github.com/Nzo-Cloud/Leetcode/tree/master/2043-simple-bank-system) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1590-make-sum-divisible-by-p](https://github.com/Nzo-Cloud/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
+## Design
+|  |
+| ------- |
+| [2043-simple-bank-system](https://github.com/Nzo-Cloud/Leetcode/tree/master/2043-simple-bank-system) |
 <!---LeetCode Topics End-->
