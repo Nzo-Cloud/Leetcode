@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0824-goat-latin](https://github.com/Nzo-Cloud/Leetcode/tree/master/0824-goat-latin) |
+| [1021-remove-outermost-parentheses](https://github.com/Nzo-Cloud/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1041-robot-bounded-in-circle](https://github.com/Nzo-Cloud/Leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [3664-two-letter-card-game](https://github.com/Nzo-Cloud/Leetcode/tree/master/3664-two-letter-card-game) |
 ## Simulation
@@ -90,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3664-two-letter-card-game](https://github.com/Nzo-Cloud/Leetcode/tree/master/3664-two-letter-card-game) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Nzo-Cloud/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
