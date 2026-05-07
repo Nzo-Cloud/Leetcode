@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Nzo-Cloud/Leetcode/tree/master/0066-plus-one) |
 | [0976-largest-perimeter-triangle](https://github.com/Nzo-Cloud/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1041-robot-bounded-in-circle](https://github.com/Nzo-Cloud/Leetcode/tree/master/1041-robot-bounded-in-circle) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Nzo-Cloud/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Nzo-Cloud/Leetcode/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Nzo-Cloud/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1041-robot-bounded-in-circle](https://github.com/Nzo-Cloud/Leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [2043-simple-bank-system](https://github.com/Nzo-Cloud/Leetcode/tree/master/2043-simple-bank-system) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Nzo-Cloud/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Nzo-Cloud/Leetcode/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Array
 |  |
@@ -99,5 +101,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Nzo-Cloud/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Nzo-Cloud/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
