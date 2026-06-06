@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/Nzo-Cloud/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [2012-sum-of-beauty-in-the-array](https://github.com/Nzo-Cloud/Leetcode/tree/master/2012-sum-of-beauty-in-the-array) |
 | [2043-simple-bank-system](https://github.com/Nzo-Cloud/Leetcode/tree/master/2043-simple-bank-system) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Nzo-Cloud/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3664-two-letter-card-game](https://github.com/Nzo-Cloud/Leetcode/tree/master/3664-two-letter-card-game) |
 ## Recursion
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1177-can-make-palindrome-from-substring](https://github.com/Nzo-Cloud/Leetcode/tree/master/1177-can-make-palindrome-from-substring) |
 | [1590-make-sum-divisible-by-p](https://github.com/Nzo-Cloud/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [2043-simple-bank-system](https://github.com/Nzo-Cloud/Leetcode/tree/master/2043-simple-bank-system) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Nzo-Cloud/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3664-two-letter-card-game](https://github.com/Nzo-Cloud/Leetcode/tree/master/3664-two-letter-card-game) |
 ## Prefix Sum
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Nzo-Cloud/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3664-two-letter-card-game](https://github.com/Nzo-Cloud/Leetcode/tree/master/3664-two-letter-card-game) |
 ## Stack
 |  |
